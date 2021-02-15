@@ -1,0 +1,5 @@
+AdMaiora/build.xml
+AdMaiora/nbproject
+AdMaiora/dist
+AdMaiora/build
+AdMaiora/web/assets
